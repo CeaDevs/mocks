@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "id": 21,
+            "name": "Bruno Brito",
+            "email": "bruno.brito@iteris.com",
+            "access": 9
+        },
+        {
+            "id": 21,
+            "name": "Bruno Brito",
+            "email": "bruno.brito@iteris.com",
+            "access": 9
+        }
+    ]
+}
